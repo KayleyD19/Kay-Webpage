@@ -1,0 +1,16 @@
+*{
+margin: 2px;
+padding: 2px;
+font-family: Cambria;
+background-color: antiquewhite;
+li{
+    display: inline;
+}
+
+      button{
+background-color: peru ;
+
+border-width: 1cm; border-color: darkgoldenrod;
+font-style: italic; font-size: xx-small;
+
+}
